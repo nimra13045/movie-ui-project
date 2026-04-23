@@ -1,8 +1,12 @@
-
 # 🎬 Netflix Clone Project
 
 This is a **Netflix Clone website** built using **HTML, CSS, and JavaScript**.  
 It is created for learning front-end development and improving UI design skills.
+
+---
+
+## 🌐 Live Demo
+👉 https://nimra13045.github.io/movie-ui-project/
 
 ---
 
@@ -23,7 +27,7 @@ It is created for learning front-end development and improving UI design skills.
 ---
 
 ## ⚠️ Important Note
-This project is **not responsive** (only works best on desktop).  
+This project is **not responsive** (best viewed on desktop).  
 It is made for practice and learning purposes.
 
 ---
@@ -46,5 +50,3 @@ It is made for practice and learning purposes.
 ---
 
 ⭐ Thank you for visiting my project!
-
-
